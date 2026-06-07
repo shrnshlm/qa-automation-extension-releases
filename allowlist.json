@@ -1,6 +1,7 @@
 {
   "_comment": "Approved Google account emails for the QA Automation extension. To grant access: add an email (lowercase). To revoke: remove it. The extension re-checks hourly. Owner: shrnshlm@gmail.com.",
   "emails": [
-    "shrnshlm@gmail.com"
+    "shrnshlm@gmail.com",
+    "chengruber2@gmail.com"
   ]
 }
